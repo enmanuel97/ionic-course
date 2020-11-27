@@ -11,6 +11,6 @@ import { NoticiasComponent } from './noticias/noticias.component';
     CommonModule,
     IonicModule
   ],
-  exports: [NoticiasComponent]
+    exports: [NoticiasComponent]
 })
 export class ComponentsModule { }

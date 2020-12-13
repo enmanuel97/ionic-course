@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Enmanuel\'s News</string>
+    <string name="title_activity_main">Enmanuel\'s News</string>
+    <string name="package_name">com.enmanueldelacruz.enmanuelnews</string>
+    <string name="custom_url_scheme">com.enmanueldelacruz.enmanuelnews</string>
+</resources>
